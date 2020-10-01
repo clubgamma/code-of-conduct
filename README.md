@@ -10,7 +10,7 @@ Our community students aspire to be gentle. This is the leading concept for supe
 ## Anticipated Behaviour
 The following ways of acting are expected and appealed of all community members:
 
-- Be friendly and patient
+- Be friendly and patient.
 - Your work will be utilized by other people and you in turn will depend on the work of others.
 - Any resolution you take will affect users and co-associate. So be considerate.
 - Since our code often rely on the work and help of others, we will be sure to furnish proper attribution. As members of the community, we agree to represent ourselves truthfully, claim only work that is our own, captivate honestly in all deeds.
@@ -45,7 +45,7 @@ The following behaviours are considered harassment, bothering and exclusionary b
 In case of a Code of Conduct violation, actions community may take are:
 
 - Requiring that a public apology is made.
-- Requiring that a violator stops their behaviour.
+- Requiring that a violator stops his/her behaviour.
 - Removing a violator from the conference, meetup or online space, without refund.
 
 ## Guidelines for reporting incidents
@@ -56,4 +56,4 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 **Core Team** who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the management team of the community.
 
 ## Scope
-We incite everyone to participate and devote themselves to build a community for all. Even though we will fail at times, we look forward to treat everyone as fairly and indistinguishably as possible. Whenever a member has made a mistake, we expect them to take guilt for it. If someone has been harmed or offended, it is our responsibility to listen carefully and respectfully, and to do our best to just the unjust.
+We invite everyone to participate and devote themselves to build a community for all. Even though we will fail at times, we look forward to treat everyone as fairly and indistinguishably as possible. Whenever a member has made a mistake, we expect them to take guilt for it. If someone has been harmed or offended, it is our responsibility to listen carefully and respectfully, and to do our best to just the unjust.
